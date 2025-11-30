@@ -15,10 +15,6 @@ Servo myservo;
 
 uint8_t durum = 0;
 
-Time time1;
-
-Time time2;
-
 Password asil;
 
 Password other;
