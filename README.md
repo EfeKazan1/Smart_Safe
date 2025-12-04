@@ -6,7 +6,7 @@ Bu proje, ESP32 tabanlı, şifreli ve LCD ekranlı bir güvenlik sistemi prototi
 * **Güvenlik:** 4 haneli şifre koruması.
 * **Kullanıcı Arayüzü:** I2C LCD Ekran ve Sesli/Işıklı geri bildirim.
 * **Donanım:** Özel tasarım PCB Anakart.
-* **Yazılım:** C++ Class yapısı, Linked List ile dinamik şifre yönetimi(V1/V2) ve State Machine mimarisi.
+* **Yazılım:** C++ Class yapısı, Linked List ile dinamik şifre yönetimi(V1/V2) , State Machine mimarisi ve Flash-Kalıcı- hafıza kullanımı.
 * **Ayarlar:** Ses ve Işık açma/kapama özelliği.
 
 ## 🛠️ Donanım Bileşenleri
