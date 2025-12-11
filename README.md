@@ -58,5 +58,5 @@ Cihaz, yerel ağ üzerinde (Localhost) bir Web Sunucusu başlatır. Kullanıcı 
 4. Tarayıcıdan IP adresine giderek sistemi kontrol edin.
 
 ---
-*Geliştirici: Efe [Soyadın]*
+*Geliştirici: Efe Kazan*
 *Bilgisayar Mühendisliği Öğrencisi*
